@@ -58,3 +58,30 @@ To install the required Python packages, you can use the following command:
 
 ```bash
 pip install -r requirements.txt
+```
+## Running the Project
+
+### Clone the repository:
+\`\`\`bash
+git clone https://github.com/yourusername/crash-prediction-pavement-analysis.git
+\`\`\`
+
+### Navigate to the project directory:
+\`\`\`bash
+cd crash-prediction-pavement-analysis
+\`\`\`
+
+### Run the data preprocessing script:
+\`\`\`bash
+python data_processing.py
+\`\`\`
+
+### Run the feature selection process:
+\`\`\`bash
+python feature_selection.py
+\`\`\`
+
+### Fit and evaluate the regression model:
+\`\`\`bash
+python modeling.py
+\`\`\`
