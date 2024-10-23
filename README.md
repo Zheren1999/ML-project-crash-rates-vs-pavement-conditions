@@ -68,21 +68,21 @@ git clone https://github.com/yourusername/crash-prediction-pavement-analysis.git
 ```
 
 ### Navigate to the project directory:
-\`\`\`bash
+```bash
 cd crash-prediction-pavement-analysis
-\`\`\`
+```
 
 ### Run the data preprocessing script:
-\`\`\`bash
+```bash
 python data_processing.py
-\`\`\`
+```
 
 ### Run the feature selection process:
-\`\`\`bash
+```bash
 python feature_selection.py
-\`\`\`
+```
 
 ### Fit and evaluate the regression model:
-\`\`\`bash
+```bash
 python modeling.py
-\`\`\`
+```
