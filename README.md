@@ -62,9 +62,10 @@ pip install -r requirements.txt
 ## Running the Project
 
 ### Clone the repository:
-\`\`\`bash
+
+```bash
 git clone https://github.com/yourusername/crash-prediction-pavement-analysis.git
-\`\`\`
+```
 
 ### Navigate to the project directory:
 \`\`\`bash
